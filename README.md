@@ -10,7 +10,7 @@
 
 Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
 
-**Please contribute. Let's make this guide better!** Please follow the [Contributing Guidelines](https://github.com/sshuair/awesome-gis/blob/master/ContributingGuidelines.md). Or you can comment below this issue: [Welcome to contribute](https://github.com/sshuair/awesome-gis/issues/72)
+**Please contribute. Let's make this guide better!** Please follow the [Contributing Guidelines](ContributingGuidelines.md). Or you can comment below this issue: [Welcome to contribute](https://github.com/sshuair/awesome-gis/issues/72)
 
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
